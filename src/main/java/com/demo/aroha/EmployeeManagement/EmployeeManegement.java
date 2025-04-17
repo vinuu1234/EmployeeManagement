@@ -17,8 +17,8 @@ public class EmployeeManegement {
 
 		HashMap<Integer, Employee> empHashMap = new HashMap<>();
 		System.out.println("* * * menu * * *");
-		System.out.println("\n1. Add Employee");
-		System.out.println("2. View All Employees");
+		System.out.println("\n1. Add Employee ");
+		System.out.println("2. View All Employees ");
 		System.out.println("3. View by Employee ID");
 		System.out.println("4. View by Email");
 		System.out.println("5. Delete by Employee ID");
